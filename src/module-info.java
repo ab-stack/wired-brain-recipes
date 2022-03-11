@@ -1,0 +1,2 @@
+module oracle_training {
+}
