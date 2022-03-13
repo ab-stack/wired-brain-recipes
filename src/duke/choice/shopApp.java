@@ -75,6 +75,8 @@ public class shopApp {
 			
 		}
 		
+		System.out.println("Git Commited");
+		
 	}
 
 }
